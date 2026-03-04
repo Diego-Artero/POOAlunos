@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11520.95 d18.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_Fullstack_Aluno", "Api_Fullstack_Aluno.csproj", "{A9297DF8-7B9C-72EE-471F-0454CA3DCC19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9297DF8-7B9C-72EE-471F-0454CA3DCC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9297DF8-7B9C-72EE-471F-0454CA3DCC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9297DF8-7B9C-72EE-471F-0454CA3DCC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9297DF8-7B9C-72EE-471F-0454CA3DCC19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A7584E4-E6FB-4F95-B8FB-87F559AA2C37}
+	EndGlobalSection
+EndGlobal
